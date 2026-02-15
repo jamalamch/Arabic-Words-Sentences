@@ -3,7 +3,7 @@
 
 ## All Arabic Sentences from 3 to 9 letters
 
-More than 12 million words divided by the number of letters and the type of letter for easy finding
+More than 12 million Sentences divided by the number of letters and the type of letter for easy finding
 
 
 >This project is a fork of :
